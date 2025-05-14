@@ -1,9 +1,5 @@
 # Markdown syntax guide
 
-## Headers
+## Example of inserting an image to a README.md
 
-# This is a Heading h1
-## This is a Heading h2
-###### This is a Heading h6
-
-## Emphasis
+![Bar Chart Visualising Data](example.png)
